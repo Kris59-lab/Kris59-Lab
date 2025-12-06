@@ -14,4 +14,3 @@ When I’m not writing code or debugging something, you’ll probably find me:
 - Playing **chess** to challenge my mind,
 - or exploring **art**, by improving my drawing skills,
 
-[![Kristale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kris59-Lab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
