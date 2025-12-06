@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi ! I'm Kristale 
+I'm a **student in Artificial Intelligence and Data science** at Aivancity, currently living in France.  
 
-<!--
-**Kris59-lab/Kris59-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm up to
 
-Here are some ideas to get you started:
+- Learning the ropes of **Machine Learning** and **MLOps**, and building my skills in **Python**, **SQL**, and data visualization (**Matplotlib**, **Power BI**).
+- Building compliant LLm with groq and mistral moderator.
+- Exploring how to make AI systems more **reliable, interpretable, and useful** in real-world settings.
+- Actively looking for a **summer internship** in **Data Science/ AI Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Outside of tech
+When I’m not writing code or debugging something, you’ll probably find me:
+- Quietly working on **psychological stories** and interconnected fictional universes.
+- Playing **chess** to challenge my mind,
+- or exploring **art**, by improving my drawing skills,
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kris59-lab&show_icons=true&theme=radical)](https://github.com/Kris59-lab/github-readme-stats)
